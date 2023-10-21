@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Trevland/static/css/main.e534ac0a.css",
+    "main.js": "/Trevland/static/js/main.5760852d.js",
+    "static/media/imageBlockOne.png": "/Trevland/static/media/imageBlockOne.b12dc1f43f5122566480.png",
+    "static/media/LargePhoto.png": "/Trevland/static/media/LargePhoto.bcd45392ba781a94fe46.png",
+    "static/media/KualaLumpur.png": "/Trevland/static/media/KualaLumpur.87e895206e6a19f60a30.png",
+    "static/media/Korea.png": "/Trevland/static/media/Korea.079a0504276786c2a620.png",
+    "static/media/Turkey.png": "/Trevland/static/media/Turkey.9fc86aa79fdbab004dce.png",
+    "static/media/Naltar.png": "/Trevland/static/media/Naltar.d298f6b728c5b98e2f8d.png",
+    "static/media/Osaka.png": "/Trevland/static/media/Osaka.a59e1cd8c92ed7ccd9af.png",
+    "static/media/China.png": "/Trevland/static/media/China.a053ac3c95e8badda5d5.png",
+    "static/media/Hiroshima.png": "/Trevland/static/media/Hiroshima.a1fb4ea6de53aa0abeb2.png",
+    "static/media/India.png": "/Trevland/static/media/India.f4c37382eb0ee599b6c4.png",
+    "static/media/Dizin.png": "/Trevland/static/media/Dizin.bd068bf892640127bd96.png",
+    "static/media/Sajek.png": "/Trevland/static/media/Sajek.c046abe8da91e2821305.png",
+    "static/media/Group 173.svg": "/Trevland/static/media/Group 173.c4629e6bb1a15fe19e34bdd18da8dace.svg",
+    "static/media/Group 41.svg": "/Trevland/static/media/Group 41.3842a9160f72442f79218d317fa15088.svg",
+    "index.html": "/Trevland/index.html",
+    "static/media/Group 145.svg": "/Trevland/static/media/Group 145.0bc26d663e964d57f1c4ece74464eb3d.svg",
+    "static/media/Group 146.svg": "/Trevland/static/media/Group 146.29690a82f9d01385315cf54a8e81a67f.svg",
+    "main.e534ac0a.css.map": "/Trevland/static/css/main.e534ac0a.css.map",
+    "main.5760852d.js.map": "/Trevland/static/js/main.5760852d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e534ac0a.css",
+    "static/js/main.5760852d.js"
+  ]
+}
