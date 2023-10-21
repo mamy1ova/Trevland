@@ -1,0 +1,297 @@
+.textBlockFour {
+  text-align: center;
+  margin-top: 140px;
+}
+
+.textBlockFour > h2 {
+  color: #000;
+  font-family: Gelasio;
+  font-size: 43px;
+  font-weight: 500;
+  line-height: 140%;
+}
+
+.textBlockFour > p {
+  width: 735px;
+  color: #626262;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 160%;
+  margin-left: 443px;
+  margin-top: 20px;
+}
+
+.firsrImage > h3 {
+  width: 271px;
+  height: 32px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Gelasio;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 160%;
+  margin-left: 230px;
+  margin-top: 35px; /* 32px */
+}
+
+.firsrImage > img {
+  margin-left: 230px;
+  margin-top: 56px;
+}
+
+.firsrImage > h4 {
+  width: 192px;
+  height: 30px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 150%;
+  margin-left: 230px;
+  /* 30px */
+}
+
+.firsrImage > p {
+  width: 470px;
+  height: 151px;
+  flex-shrink: 0;
+  color: #7d7d7d;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+  margin-left: 230px; /* 28.8px */
+}
+
+.secondImage {
+  position: absolute;
+  top: 2725px;
+  left: 816px;
+}
+
+.secondImage > h3 {
+  width: 271px;
+  height: 32px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Gelasio;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 160%; /* 32px */
+}
+
+.secondImage > p {
+  width: 470px;
+  height: 151px;
+  flex-shrink: 0;
+  color: #7d7d7d;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 28.8px */
+}
+
+.secondImage > h4 {
+  width: 192px;
+  height: 30px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 150%; /* 30px */
+}
+
+.thirdImage {
+  position: absolute;
+  top: 2950px;
+  left: 816px;
+}
+
+.thirdImage > h3 {
+  width: 271px;
+  height: 32px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Gelasio;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 160%; /* 32px */
+}
+
+.thirdImage > p {
+  width: 470px;
+  height: 151px;
+  flex-shrink: 0;
+  color: #7d7d7d;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+  /* 28.8px */
+}
+
+.thirdImage > h4 {
+  width: 192px;
+  height: 30px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 150%; /* 30px */
+}
+
+.fourthImage {
+  position: absolute;
+  top: 3180px;
+  left: 816px;
+}
+
+.fourthImage > h3 {
+  width: 271px;
+  height: 32px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Gelasio;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 160%; /* 32px */
+}
+
+.fourthImage > p {
+  width: 470px;
+  height: 151px;
+  flex-shrink: 0;
+  color: #7d7d7d;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 28.8px */
+}
+
+.fourthImage > h4 {
+  width: 192px;
+  height: 30px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 150%; /* 30px */
+}
+
+.textSecondImage {
+  position: absolute;
+  top: 50px;
+  left: 297px;
+  width: 250px;
+}
+
+.textSecondImage > h3 {
+  margin-bottom: 10px;
+  color: #000;
+  font-family: Gelasio;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+}
+
+.textSecondImage > p {
+  color: #7a7a7a;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 28.8px */
+}
+
+.textSecondImage > h4 {
+  color: #474747;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 30px */
+}
+
+.textTirdImage {
+  position: absolute;
+  top: 50px;
+  left: 297px;
+  width: 250px;
+}
+
+.textTirdImage > h3 {
+  margin-bottom: 10px;
+  color: #000;
+  font-family: Gelasio;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+}
+
+.textTirdImage > p {
+  color: #7a7a7a;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 28.8px */
+}
+
+.textTirdImage > h4 {
+  color: #474747;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 30px */
+}
+
+.textFourImage {
+  position: absolute;
+  top: 50px;
+  left: 297px;
+  width: 250px;
+}
+
+.textFourImage > h3 {
+  margin-bottom: 10px;
+  color: #000;
+  font-family: Gelasio;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+}
+
+.textFourImage > p {
+  color: #7a7a7a;
+  font-family: Roboto;
+  font-size: 18px;
+  /* font-style: normal; */
+  font-weight: 400;
+  /* line-height: 160%; 28.8px */
+}
+
+.textFourImage > h4 {
+  color: #474747;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 30px */
+}

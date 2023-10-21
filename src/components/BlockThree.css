@@ -1,0 +1,81 @@
+.textBlockThree {
+  text-align: center;
+  margin-top: 140px;
+}
+
+.textBlockThree > h2 {
+  color: #000;
+  font-family: Gelasio;
+  font-size: 43px;
+  font-weight: 500;
+  line-height: 140%;
+}
+
+.textBlockThree > p {
+  width: 735px;
+  color: #626262;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 160%;
+  margin-left: 443px;
+  margin-top: 20px;
+}
+
+.CardsBlockThree {
+  display: flex;
+  gap: 73px;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.firstCard > h3,
+.secondCard > h3,
+.thirdCard > h3,
+.fourthCard > h3 {
+  color: #000;
+  font-family: Gelasio;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  padding-top: 20px;
+}
+
+.firstCard > p,
+.secondCard > p,
+.thirdCard > p,
+.fourthCard > p {
+  color: #868484;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  /* 24px */
+  padding: 8px 0px 8px 0px;
+}
+
+.firstCard > span,
+.secondCard > span,
+.thirdCard > span,
+.fourthCard > span {
+  color: #868484;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  /* 27px */
+}
+
+.scroll {
+  position: absolute;
+  top: 2440px;
+  left: 470px;
+}
+
+.scroll > img {
+  width: 231px;
+  height: 6px;
+}

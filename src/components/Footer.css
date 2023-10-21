@@ -1,0 +1,126 @@
+.footer {
+  width: 1600px;
+  height: 348px;
+  background: #219aa019;
+  margin-top: 142px;
+  display: flex;
+}
+
+.text {
+  color: #000;
+  font-family: Ribeye;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 36px */
+  letter-spacing: 1.44px;
+  padding-top: 70px;
+  margin-left: 231px;
+}
+
+.firstBlock > p {
+  margin-left: 231px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 25.6px */
+  letter-spacing: 0.96px;
+  text-decoration: none;
+  margin-top: 40px;
+}
+
+.firstBlock > span > a {
+  margin-left: 231px;
+  text-decoration: none;
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 25.6px */
+  letter-spacing: 0.96px;
+}
+
+.footer > img {
+  padding-left: 231px;
+  padding-top: 20px;
+  width: 361px;
+  height: 40px;
+  position: absolute;
+  top: 3700px;
+}
+
+.footerMenu {
+  margin-left: 107px;
+  margin-top: 70px;
+}
+
+ul > li > a {
+  text-decoration: none;
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 150%; /* 24px */
+  letter-spacing: 0.96px;
+}
+
+ul > li {
+  list-style: none;
+  padding-bottom: 10px;
+}
+
+.legal {
+  margin-left: 127px;
+  margin-top: 70px;
+}
+
+.fourthBlock {
+  margin-left: 200px;
+  margin-top: 70px;
+}
+
+.fourthBlock > h3 {
+  color: #000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 1.2px;
+}
+
+.form > input {
+  margin-top: 42px;
+  width: 195px;
+  height: 44px;
+  border-radius: 5px;
+  border: 1px solid #000;
+  opacity: 0.1;
+  box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.15);
+}
+
+.form > input::placeholder {
+  padding-left: 20px;
+  color: black;
+}
+
+.form > input:focus {
+  opacity: 1;
+}
+
+.form > button {
+  width: 103px;
+  height: 44px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  background: #c9453b;
+  color: #fff;
+  font-family: Roboto;
+  font-size: 16px;
+  letter-spacing: 0.96px;
+  border: none;
+  margin-left: 60px;
+}
